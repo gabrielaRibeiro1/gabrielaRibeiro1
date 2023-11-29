@@ -1,16 +1,17 @@
-### Hi there 👋
+# About Me
 
-<!--
-**gabrielaRibeiro1/gabrielaRibeiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm **Gabriela Ribeiro**, an Informatics Engineering student with a keen interest in data science and AI.
 
-Here are some ideas to get you started:
+- 📚 Studying Informatics Engineering at [IPVC](https://www.ipvc.pt/).
+- 🌱 Learning data science, ML and algorithms.
+- 🚀 Exploring open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriela-ribeiro-gtr/).
+
+<div align="center">
+  <a href="https://github.com/gabrielaRibeiro1">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabrielaRibeiro1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaRibeiro1&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+
+
